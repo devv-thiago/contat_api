@@ -8,6 +8,8 @@ environment:
 
 dependencies:
   dart_frog: ^1.0.0
+  dart_odbc: ^2.0.0+1
+  dotenv: ^4.2.0
 
 dev_dependencies:
   mocktail: ^1.0.0
